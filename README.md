@@ -6,7 +6,7 @@ This work is inspired by the original project by [@aliahmad-1987](https://github
 ---
 
 ##  Project Overview
-Business Problem:
+**Business Problem**:
 An online retail business is facing several challenges despite launching multiple marketing campaigns:
 
 -Reduced Customer Engagement: Fewer users are interacting with the website and marketing content.
