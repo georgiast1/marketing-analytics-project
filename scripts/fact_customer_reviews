@@ -1,0 +1,11 @@
+-- Query to replace double spaces with single spaces in the ReviewText column
+
+SELECT 
+    ReviewID,  
+    CustomerID,  
+    ProductID,  
+    ReviewDate,  
+    Rating,  -- Selects the numerical rating given by the customer ( 1 to 5 stars)
+    REPLACE(ReviewText, '  ', ' ') AS ReviewText
+FROM 
+    dbo.customer_reviews;
