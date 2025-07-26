@@ -6,6 +6,29 @@ This work is inspired by the original project by [@aliahmad-1987](https://github
 ---
 
 ##  Project Overview
+Business Problem:
+An online retail business is facing several challenges despite launching multiple marketing campaigns:
+
+-Reduced Customer Engagement: Fewer users are interacting with the website and marketing content.
+
+-Declining Conversion Rates: A decreasing percentage of site visitors are turning into paying customers.
+
+-High Marketing Spend: Marketing investments are not delivering the expected return on investment (ROI).
+
+-Lack of Customer Feedback Insights: The company lacks a structured analysis of customer opinions and sentiments related to their products and services.
+
+**Project Goal**:
+The objective of this project is to perform a detailed marketing and customer behavior analysis to identify actionable insights for improving marketing performance.
+
+Key Goals:
+
+ Analyze the customer journey to detect engagement drop-offs.
+
+ Perform sentiment analysis on customer reviews using Python and NLP.
+
+ Calculate and visualize conversion rates across different actions and channels.
+
+ Provide data-driven recommendations for optimizing marketing strategy.
 
 The project answers key business questions such as:
 
